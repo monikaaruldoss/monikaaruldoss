@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Monika Aruldoss -->
 
 <div align="center">
-  <img src="./assets/monika-banner.png" alt="Monika Aruldoss" width="100%">
+  <img src="https://i.postimg.cc/DzYbv9gB/github-dashboard-image.jpg" alt="Monika Aruldoss" width="100%">
 </div>
 
 <h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
